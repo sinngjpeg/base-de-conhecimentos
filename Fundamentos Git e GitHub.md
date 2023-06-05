@@ -1,7 +1,7 @@
-##### Fundamentos Git e GitHub
+#### Fundamentos Git e GitHub
 
-Git é um sistema de controle de versão distribuído gratuito e de código aberto projetado para lidar com tudo, desde projetos pequenos a muito grandes com velocidade e eficiência.
-GitHub é um serviço de hospedagem para desenvolvimento de software e controle de versão usando Git.
+##### Git é um sistema de controle de versão distribuído gratuito e de código aberto projetado para lidar com tudo, desde projetos pequenos a muito grandes com velocidade e eficiência.
+##### GitHub é um serviço de hospedagem para desenvolvimento de software e controle de versão usando Git.
 
 | GitHub | Link | Status |
 | ------ | ------ | ------ |
