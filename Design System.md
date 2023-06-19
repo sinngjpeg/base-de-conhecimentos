@@ -11,7 +11,7 @@ Para manter a consistência, identidade da marca, e garantir uma boa experiênci
 | Design Systems com Charles Assunção | [Link](https://www.youtube.com/watch?v=MLGFctEtmYQ) | 
 | | [Link]() | 
 | | [Link]() | 
-| | [Link]() | 
+| | [Link]() |  
 | | [Link]() | 
 | | [Link]() | 
 | | [Link]() | 
