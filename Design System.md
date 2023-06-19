@@ -8,7 +8,7 @@ Para manter a consistência, identidade da marca, e garantir uma boa experiênci
 | Design System | Link | 
 | ------ | ------ | 
 | Style Guide e Design System: Principais diferenças | [Link](https://cursos.alura.com.br/extra/alura-mais/style-guide-e-design-system-principais-diferencas-c864) |
-| | [Link]() | 
+| Design Systems com Charles Assunção | [Link](https://www.youtube.com/watch?v=MLGFctEtmYQ) | 
 | | [Link]() | 
 | | [Link]() | 
 | | [Link]() | 
